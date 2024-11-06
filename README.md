@@ -1,4 +1,5 @@
-# ProjectPorto_MySkill_FInanKu
+# PROJECT PORTOFOLIO MYSKIL MODEL PREDICTION 
+Use Case : Pelanggan Gagal Bayar Kartu Kredit FinanKu
 
 PROBLEM STATEMENT
 Concern about delays in credit card payments on FinanKu which will harm business. So that people who have the potential to experience late payments can be predicted more quickly to determine appropriate strategies for dealing with future conditions.
